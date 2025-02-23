@@ -31,19 +31,19 @@ The dataset includes the following features:
 ## 📈 Power BI Visualizations
 ### **1. Survival Status by Sex (Stacked Bar Chart)**
 - **Observation**: Males had a lower survival rate compared to females.
-- ![image](https://github.com/user-attachments/assets/e95660ce-5fd7-41fc-8694-9f611af2d5df)
+![image](https://github.com/user-attachments/assets/e95660ce-5fd7-41fc-8694-9f611af2d5df)
 
 
 ### **2. Survival Status by Ticket Class (Pie Chart)**
 - **Observation**: First-class passengers had the highest survival rate, while third-class passengers had the lowest.
-- ![image](https://github.com/user-attachments/assets/e5d472c9-8e1f-4866-9a55-bdeaaddc926a)
+![image](https://github.com/user-attachments/assets/e5d472c9-8e1f-4866-9a55-bdeaaddc926a)
 
 
 ### **3. Survival Status by Age Category (Clustered Column Chart)**
 - **Observation**:
   - Young adults had the highest mortality rate.
   - Older individuals had the lowest survival and non-survival counts.
-  - ![image](https://github.com/user-attachments/assets/a8030363-f323-443e-9c04-c67043c433f7)
+![image](https://github.com/user-attachments/assets/a8030363-f323-443e-9c04-c67043c433f7)
 
 
 ## 🚀 How to Use This Project
